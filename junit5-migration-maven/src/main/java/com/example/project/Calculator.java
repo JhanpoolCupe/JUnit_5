@@ -16,4 +16,8 @@ public class Calculator {
 		return a + b;
 	}
 
+	public boolean isTrue() {
+		return true;
+	}
+
 }
